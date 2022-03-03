@@ -1,3 +1,6 @@
 # Python practice
 
-Here we have a practice push and pull the test.
+# Windows
+python .\training.py 
+# linux
+python ./training.py
